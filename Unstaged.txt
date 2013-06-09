@@ -1,3 +1,5 @@
 ********************
 *** Unstaged.txt ***
 ********************
+
+Changing text to test if -a paramter on the commit command is remembered.
