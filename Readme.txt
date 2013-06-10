@@ -5,3 +5,5 @@
 This is a test
 
 Not staged
+
+Feature: new menu bar.
